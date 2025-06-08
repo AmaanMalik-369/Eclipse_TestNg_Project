@@ -2,44 +2,44 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-06-08T14:00:52Z" name="Simplilearn" finished-at="2025-06-08T14:01:22Z" duration-ms="29073">
+  <suite started-at="2025-06-08T15:11:21Z" name="Simplilearn" finished-at="2025-06-08T15:11:35Z" duration-ms="14039">
     <groups>
     </groups>
-    <test started-at="2025-06-08T14:00:52Z" name="Test" finished-at="2025-06-08T14:01:22Z" duration-ms="29073">
+    <test started-at="2025-06-08T15:11:21Z" name="Test" finished-at="2025-06-08T15:11:35Z" duration-ms="14039">
       <class name="Swag_Labs.LoginTest">
-        <test-method is-config="true" signature="SetUp()[pri:0, instance:Swag_Labs.LoginTest@66d18979]" started-at="2025-06-08T14:00:52Z" name="SetUp" finished-at="2025-06-08T14:01:12Z" duration-ms="19401" status="PASS">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:Swag_Labs.LoginTest@66d18979]" started-at="2025-06-08T15:11:21Z" name="SetUp" finished-at="2025-06-08T15:11:26Z" duration-ms="4801" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method signature="LoginSuccessTest()[pri:0, instance:Swag_Labs.LoginTest@66d18979]" started-at="2025-06-08T14:01:12Z" name="LoginSuccessTest" finished-at="2025-06-08T14:01:13Z" duration-ms="943" status="PASS">
+        <test-method signature="LoginSuccessTest()[pri:0, instance:Swag_Labs.LoginTest@66d18979]" started-at="2025-06-08T15:11:26Z" name="LoginSuccessTest" finished-at="2025-06-08T15:11:26Z" duration-ms="346" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginSuccessTest -->
-        <test-method is-config="true" signature="TearDown()[pri:0, instance:Swag_Labs.LoginTest@66d18979]" started-at="2025-06-08T14:01:13Z" name="TearDown" finished-at="2025-06-08T14:01:13Z" duration-ms="340" status="PASS">
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Swag_Labs.LoginTest@66d18979]" started-at="2025-06-08T15:11:26Z" name="TearDown" finished-at="2025-06-08T15:11:27Z" duration-ms="272" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
-        <test-method is-config="true" signature="SetUp()[pri:0, instance:Swag_Labs.LoginTest@66d18979]" started-at="2025-06-08T14:01:13Z" name="SetUp" finished-at="2025-06-08T14:01:17Z" duration-ms="3423" status="PASS">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:Swag_Labs.LoginTest@66d18979]" started-at="2025-06-08T15:11:27Z" name="SetUp" finished-at="2025-06-08T15:11:30Z" duration-ms="3338" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method signature="LoginFailureTest()[pri:1, instance:Swag_Labs.LoginTest@66d18979]" started-at="2025-06-08T14:01:17Z" name="LoginFailureTest" finished-at="2025-06-08T14:01:17Z" duration-ms="449" status="PASS">
+        <test-method signature="LoginFailureTest()[pri:1, instance:Swag_Labs.LoginTest@66d18979]" started-at="2025-06-08T15:11:30Z" name="LoginFailureTest" finished-at="2025-06-08T15:11:30Z" duration-ms="302" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginFailureTest -->
-        <test-method is-config="true" signature="TearDown()[pri:0, instance:Swag_Labs.LoginTest@66d18979]" started-at="2025-06-08T14:01:17Z" name="TearDown" finished-at="2025-06-08T14:01:17Z" duration-ms="283" status="PASS">
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Swag_Labs.LoginTest@66d18979]" started-at="2025-06-08T15:11:30Z" name="TearDown" finished-at="2025-06-08T15:11:30Z" duration-ms="226" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
-        <test-method is-config="true" signature="SetUp()[pri:0, instance:Swag_Labs.LoginTest@66d18979]" started-at="2025-06-08T14:01:17Z" name="SetUp" finished-at="2025-06-08T14:01:21Z" duration-ms="3385" status="PASS">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:Swag_Labs.LoginTest@66d18979]" started-at="2025-06-08T15:11:30Z" name="SetUp" finished-at="2025-06-08T15:11:35Z" duration-ms="4197" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method signature="LoginLogoutUser()[pri:2, instance:Swag_Labs.LoginTest@66d18979]" started-at="2025-06-08T14:01:21Z" name="LoginLogoutUser" finished-at="2025-06-08T14:01:21Z" duration-ms="516" status="PASS">
+        <test-method signature="LoginLogoutUser()[pri:2, instance:Swag_Labs.LoginTest@66d18979]" started-at="2025-06-08T15:11:35Z" name="LoginLogoutUser" finished-at="2025-06-08T15:11:35Z" duration-ms="355" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginLogoutUser -->
-        <test-method is-config="true" signature="TearDown()[pri:0, instance:Swag_Labs.LoginTest@66d18979]" started-at="2025-06-08T14:01:21Z" name="TearDown" finished-at="2025-06-08T14:01:22Z" duration-ms="281" status="PASS">
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Swag_Labs.LoginTest@66d18979]" started-at="2025-06-08T15:11:35Z" name="TearDown" finished-at="2025-06-08T15:11:35Z" duration-ms="183" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
